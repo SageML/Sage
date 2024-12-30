@@ -42,7 +42,7 @@ The SageML repository is currently under development. We'll be sharing more deta
 
 ## Connect with Us
 
-* **LinkedIn:** [www.linkedin.com/in/prakhar-madnani]
-* **GitHub:** [www.github.com/PM4305]
+* **LinkedIn:** [Prakhar Madnani](www.linkedin.com/in/prakhar-madnani), [Devansh Kukreja](www.linkedin.com/in/devansh-kukreja)
+* **GitHub:** [PM4305](www.github.com/PM4305), [devansh1401](www.github.com/devansh1401)
 
 We're excited to embark on this journey with you! Let's work together to make AI accessible and empower everyone to leverage its transformative potential.
